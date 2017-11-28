@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PingMetrics", "PingMetrics\PingMetrics.csproj", "{4CC4E176-3AC3-4A08-B146-40531B712515}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PingMetrics.Tests", "PingMetricsTests\PingMetrics.Tests.csproj", "{579DFF10-16B6-40D6-ABA7-48061768FA4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PingMetrics.GUI", "PingMetrics.GUI\PingMetrics.GUI.csproj", "{FFE3FA44-13D8-4988-9C4A-781155D21F0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CC4E176-3AC3-4A08-B146-40531B712515}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CC4E176-3AC3-4A08-B146-40531B712515}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CC4E176-3AC3-4A08-B146-40531B712515}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CC4E176-3AC3-4A08-B146-40531B712515}.Release|Any CPU.Build.0 = Release|Any CPU
+		{579DFF10-16B6-40D6-ABA7-48061768FA4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{579DFF10-16B6-40D6-ABA7-48061768FA4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{579DFF10-16B6-40D6-ABA7-48061768FA4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{579DFF10-16B6-40D6-ABA7-48061768FA4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFE3FA44-13D8-4988-9C4A-781155D21F0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFE3FA44-13D8-4988-9C4A-781155D21F0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFE3FA44-13D8-4988-9C4A-781155D21F0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFE3FA44-13D8-4988-9C4A-781155D21F0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
